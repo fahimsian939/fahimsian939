@@ -8,6 +8,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p>I am sian . I love my best friend . His name is chunnu</p>
+<img align="right" alt="coding" width="400" src="https://i.ibb.co/JxWBLdn/DSC-0066.jpg">
 
 
 
