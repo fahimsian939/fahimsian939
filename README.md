@@ -1,5 +1,5 @@
 #### Web Developer
-![Web Developer](https://i.ibb.co/mHRgYtP/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)
+
 
 
 
