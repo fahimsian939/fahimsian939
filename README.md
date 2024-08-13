@@ -3,17 +3,13 @@
 
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Samu👻....;Nice+to+meet+you!&center=true&size=30&color=000000">
-  </a>
-</h1>
+
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left">
 
-  <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="samsur4d" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="fahimsian939" /> </p>
   <img align="right" alt="coding" width="400" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 
@@ -27,7 +23,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AjZxP_kMKEC3OQ9KmGgKIDxFcPS5Y59Z/view?usp=drive_link)
 
 
-I am a 💪dedicated Public Health student currently in my second year of Honours studies. Alongside my academic pursuits, I am deeply passionate 💪💪💪 about web development, with a particular focus on frontend technologies. My technical skill set includes proficiency in HTML, CSS, JavaScript, and React.js, along with backend technologies like Node.js and MongoDB. I also leverage various React packages to enhance the functionality and user experience of my websites. My commitment to continuous learning and my enthusiasm for technology drive me to create innovative and efficient web solutions. Feel free to reach out to me at patarehan14600@gmail.com or call me at 01879453612 for any collaboration or inquiries.
+I am a 💪dedicated Public Health student currently in my second year of Honours studies. Alongside my academic pursuits, I am deeply passionate 💪💪💪 about web development, with a particular focus on frontend technologies. My technical skill set includes proficiency in HTML, CSS, JavaScript, and React.js, along with backend technologies like Node.js and MongoDB. I also leverage various React packages to enhance the functionality and user experience of my websites. My commitment to continuous learning and my enthusiasm for technology drive me to create innovative and efficient web solutions. 
 
 
 
