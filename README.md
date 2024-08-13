@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p>I am sian . I love my best friend . His name is chunnu</p>
+<p>I am sian . I love my best friend. . His name is chunnu</p>
 <p>Chunnu is the kind of person who lights up any room he walks into. With a personality that's as vibrant as his sense of humor, he's always the center of attention. Known for his talkative nature, Chunnu can strike up a conversation with just about anyone and keep them entertained with his endless stories and witty remarks.
 
 At school, Chunnu's popularity is unmatched. Everyone knows him, and it's hard not to when he's constantly making people laugh and spreading good vibes wherever he goes. Whether it's cracking jokes, pulling off funny impressions, or just being his lively self, Chunnu is the go-to guy for anyone looking to brighten their day.
